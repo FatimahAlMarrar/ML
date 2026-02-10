@@ -1,6 +1,11 @@
-# Lab 1: Git & GitHub for ML
+# ARTI-308: Machine Learning - Lab
 
-Hi, I am Fatimah Abdullah Al-Marrar
-I am a Cybersecurity student. I am interested in Machine Learning because it can be used to improve security systems, detect cyber threats, and analyze large amounts of data to identify attacks and vulnerabilities.
-I am looking forward to learning how Machine Learning can be applied in the field of Cybersecurity throughout this course.
+## Course Overview
+This repository contains all lab assignments and practical implementations for the **Machine Learning (ARTI-308)** course.
 
+## Student Information
+* **Name:*Fatimah Al Marrar*
+* *Student ID: *2240005367* 
+
+---
+*Maintained by Fatimah*
